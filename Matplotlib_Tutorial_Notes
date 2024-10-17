@@ -1,0 +1,44 @@
+def matplotlib_tutorial():
+    
+    
+    # 4. Advanced Plotting Techniques
+    print("4. Advanced Plotting Techniques")
+    print("   - Subplots and Multiple Axes")
+    print("     - plt.subplots()")
+    print("     - Creating grid layouts")
+    print("   - Bar plots and Histograms")
+    print("     - plt.bar() and plt.hist()")
+    print("     - Customizing bar colors and width")
+    
+    # 5. Customizing Plots
+    print("5. Customizing Plots")
+    print("   - Aesthetic adjustments")
+    print("     - Changing figure size")
+    print("     - Adding grids and ticks")
+    print("   - Colors, styles, and markers")
+    print("     - Using color maps")
+    print("     - Customizing markers and line styles")
+    
+    # 6. Annotations and Text
+    print("6. Annotations and Text")
+    print("   - Adding annotations to plots")
+    print("     - plt.annotate()")
+    print("   - Adding text and labels")
+    print("     - plt.text()")
+    print("     - Customizing font size and style")
+    
+    # 7. Saving and Exporting Figures
+    print("7. Saving and Exporting Figures")
+    print("   - Saving plots to files")
+    print("     - plt.savefig()")
+    print("     - Choosing formats (PNG, PDF, etc.)")
+    print("   - Displaying plots inline (in Jupyter)")
+    
+    # 8. Real-World Examples
+    print("8. Real-World Examples")
+    print("   - Example 1: Time Series Data Visualization")
+    print("   - Example 2: Comparing Multiple Data Sets")
+    print("   - Example 3: Visualizing Distributions")
+
+# Call the tutorial function
+matplotlib_tutorial()
